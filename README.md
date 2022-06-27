@@ -19,7 +19,7 @@ More information can be found on [Wikipedia](https://en.wikipedia.org/wiki/Pomod
 ![This is an image](https://user-images.githubusercontent.com/37813839/120893701-f0542e80-c5ea-11eb-92e7-e702fd2e52e6.gif)
 
 # Built with
-- [Python](https://www.python.org/).
+- [Python](https://www.python.org/)
 
 # License
 - [MIT License](https://github.com/Solyyy/Pomodoro/blob/master/LICENSE.txt)
