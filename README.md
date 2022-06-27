@@ -20,3 +20,6 @@ More information can be found on [Wikipedia](https://en.wikipedia.org/wiki/Pomod
 
 # Built with
 - [Python](https://www.python.org/).
+
+# License
+- [MIT License](https://github.com/Solyyy/Pomodoro/blob/master/LICENSE.txt)
